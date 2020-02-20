@@ -1,0 +1,7 @@
+main {
+    height: 100%;
+    margin-top: 5em;
+}
+.navbar-color {
+    background-color: rgba(0, 0, 0, 0.5); 
+}

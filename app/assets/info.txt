@@ -1,0 +1,2 @@
+http-server 'C:\Users\F051892\my_repos\cbWebApp\IZPM101.github.io' --port 3010 -c-1
+
